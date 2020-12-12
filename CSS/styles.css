@@ -354,9 +354,10 @@ h1 {
 }
 
 .salud {
-  left: -152px;
-  left: -100px;
+    top: 239px;
+    left: -148px;
 }
+
 .sobrenosParr {
   color: black;
   display: block;
