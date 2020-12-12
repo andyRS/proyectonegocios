@@ -30,7 +30,7 @@ $(document).ready(function () {
       {
         scrollTop: 1850,
       },
-      600
+     800
     );
   });
 
@@ -41,7 +41,7 @@ $(document).ready(function () {
       {
         scrollTop: 2690,
       },
-      600
+      800
     );
   });
 
