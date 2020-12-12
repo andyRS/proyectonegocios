@@ -1,0 +1,21 @@
+@media (max-width: 1920px) {
+	h1 {
+		font-size: 55px;
+	}
+
+	#header #menu ul li a {
+		font-size: 22px;
+	}
+}
+
+
+
+@media (max-width: 1370px) {
+	h1 {
+		font-size: 50px;
+	}
+
+	#header #menu ul li a {
+		font-size: 19px;
+	}
+}
