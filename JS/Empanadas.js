@@ -30,7 +30,7 @@ $(document).ready(function () {
       {
         scrollTop: 1850,
       },
-     800
+      800
     );
   });
 
