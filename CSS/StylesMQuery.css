@@ -436,6 +436,101 @@
 	#btn-masinfo {
 		width: 54%;
 	}
+
+	#header #menu ul li a {
+		font-size: 13px;
+		position: relative;
+		left: -9px;
+		/* margin: 0px; */
+		padding: 5px;
+		top: -9px;
+	}
+
+	h1 {
+		left: 10px;
+		/* bottom: 19px; */
+		margin-bottom: 16px;
+	}
+
+	#btn-masinfo {
+		width: 52%;
+		/* font-size: ; */
+	}
+
+	#whatssap img {
+		width: 19%;
+		border-radius: 8px;
+		cursor: pointer;
+	}
+
+	#whatssap {
+		right: -54%;
+	}
+
+	#productos h2 {
+		display: block;
+		margin-bottom: 0px;
+		font-size: 46px;
+	}
+
+	.Empanadas .imagenes-empanadas img {
+		display: block;
+		float: none;
+		width: 261px;
+		/* height: 200px; */
+		position: relative;
+		left: -15px;
+		margin-bottom: -7px;
+		padding: 15px;
+	}
+
+	#imagenPollo img {
+		position: relative;
+		left: -16px;
+		top: 0px;
+	}
+
+	.textoPrecio {
+		font-size: 20px;
+		text-align: center;
+	}
+
+	.textoEmpanada {
+		left: 132px;
+		top: -136px;
+	}
+
+	#resTexto {
+		bottom: 70px;
+		left: -3px;
+	}
+
+	#polloTexto {
+		bottom: 0px;
+		left: -4px;
+		top: -51px;
+	}
+
+	.textoDestacado {
+		font-size: 18px;
+		text-align: justify;
+	}
+
+	.imagen-compromiso img {
+		top: -56px !important;
+		left: 11px !important;
+	}
+
+	.nosotros img {
+		float: none;
+		left: -27px;
+		top: -54px;
+	}
+
+	#imgEconomico img {
+		display: block;
+		left: 20px !important;
+	}
 }
 
 @media (max-width: 320px) {
