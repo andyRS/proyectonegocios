@@ -445,7 +445,7 @@
   #header #menu ul li a {
     font-size: 14px;
     position: relative;
-    left: -14px;
+    left: -11px;
     margin: 7px;
     padding: 2px;
     top: 10px;
@@ -490,7 +490,7 @@
   }
   .textoEmpanada {
 	left: 195px;
-	top: -90px;
+	top: -30px;
 }
 
   #quesoTexto {
@@ -531,10 +531,7 @@
     transition: all 0.1s;
   }
   .span-ajo {
-    display: block;
     font-size: 14px;
-     margin: 0px auto;
-	  
   }
 
   #productos p {
