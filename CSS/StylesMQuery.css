@@ -447,7 +447,7 @@
     position: relative;
     left: -2px;
     margin: 7px;
-    padding: 8px;
+    padding: 6px;
     top: 10px;
   }
   h1 {
@@ -489,9 +489,9 @@
     text-align: center;
   }
   .textoEmpanada {
-    left: 195px;
-    top: 0px;
-  }
+	left: 195px;
+	top: -259px;
+}
 
   #quesoTexto {
     display: block;
