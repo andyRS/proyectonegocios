@@ -489,9 +489,9 @@
     text-align: center;
   }
   .textoEmpanada {
-	left: 195px;
-	top: -30px;
-}
+    left: 195px;
+    top: -30px;
+  }
 
   #quesoTexto {
     display: block;
@@ -532,6 +532,11 @@
   }
   .span-ajo {
     font-size: 14px;
+    display: block;
+
+    position: relative;
+    left: 147px;
+    font-size: 25px;
   }
 
   #productos p {
