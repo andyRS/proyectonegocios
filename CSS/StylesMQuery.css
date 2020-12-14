@@ -223,7 +223,7 @@
     #header #menu ul li a {
         display: block;
         margin-left: 0;
-        font-size: 25px;
+        font-size: 21px;
         left: 49px;
     }
     #btn-menu:checked~#menu {
