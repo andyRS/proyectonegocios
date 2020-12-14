@@ -475,13 +475,13 @@
     font-size: 40px;
   }
   .Empanadas .imagenes-empanadas img {
-    width: 88%;
-    left: -11px;
+    width: 90%;
+    left: -22px;
     margin-bottom: 33px;
   }
   #imagenPollo img {
     position: relative;
-    left: -12px;
+    left: -22px;
     top: 0px;
   }
   .textoPrecio {
@@ -489,24 +489,25 @@
     text-align: center;
   }
   .textoEmpanada {
-	left: 195px;
-	top: -200px;
-}
+    left: 171px;
+    top: -202px;
+  }
 
   #quesoTexto {
     display: block;
     position: relative;
-    left: -20px;
-    top: -53px;
+    left: -25px;
+    top: -61px;
   }
-  #resTexto {
-    bottom: 80px;
-    left: 2px;
-  }
+#resTexto {
+	bottom: 84px;
+	left: -19px;
+
+}
   #polloTexto {
     bottom: 0px;
-    left: -4px;
-    top: -51px;
+    left: -22px;
+    top: -56px;
   }
 
   .textoDestacado {
