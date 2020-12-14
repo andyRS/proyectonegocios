@@ -413,22 +413,9 @@
 	}
 }
 
-@media (max-width: 462px) {
-	#header #menu ul li a {
-		font-size: 14px;
-	}
+@media (max-width: 475px) {
 
-	#header #menu {
-		left: 15px;
-	}
-
-	#btn-masinfo {
-		width: 54%;
-	}
-	#header #menu ul li a {
-		font-size: 14px;
-	}
-
+	
 	#header #menu {
 		left: 15px;
 	}
@@ -438,12 +425,12 @@
 	}
 
 	#header #menu ul li a {
-		font-size: 13px;
+		font-size: 19px;
 		position: relative;
-		left: -9px;
-		/* margin: 0px; */
+		left: 15px;
+		 margin: 0px; 
 		padding: 5px;
-		top: -9px;
+		top: 4px;
 	}
 
 	h1 {
@@ -468,9 +455,9 @@
 	}
 
 	#productos h2 {
-		display: block;
-		margin-bottom: 0px;
-		font-size: 46px;
+		
+		margin-bottom: 30px;
+		font-size: 40px;
 	}
 
 	.Empanadas .imagenes-empanadas img {
@@ -496,8 +483,8 @@
 	}
 
 	.textoEmpanada {
-		left: 132px;
-		top: -136px;
+		left: 194px;
+		top: -230px;
 	}
 
 	#resTexto {
@@ -531,6 +518,11 @@
 		display: block;
 		left: 20px !important;
 	}
+
+	.animado {
+		opacity: 1;
+		transition: all 0.1s;
+	  }
 }
 
 @media (max-width: 320px) {
