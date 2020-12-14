@@ -445,7 +445,7 @@
   #header #menu ul li a {
     font-size: 14px;
     position: relative;
-    left: -9px;
+    left: -11px;
     margin: 7px;
     padding: 2px;
     top: 10px;
@@ -490,7 +490,7 @@
   }
   .textoEmpanada {
 	left: 195px;
-	top: -150px;
+	top: -90px;
 }
 
   #quesoTexto {
