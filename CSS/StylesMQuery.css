@@ -443,21 +443,24 @@
     width: 54%;
   }
   #header #menu ul li a {
-    font-size: 17px;
+    font-size: 15px;
     position: relative;
-    left: 34px;
+    left: 13px;
     margin: 7px;
     padding: 0px;
     top: 9px;
   }
   h1 {
-    left: 10px;
+    font-size: 14px;
+    position: relative;
+    left: -146px;
+    left: 0px;
     bottom: 0px;
     margin-bottom: 16px;
   }
+
   #btn-masinfo {
     width: 52%;
-    /* font-size: ; */
   }
   #whatssap img {
     width: 19%;
@@ -472,13 +475,13 @@
     font-size: 40px;
   }
   .Empanadas .imagenes-empanadas img {
-    width: 85%;
-    left: 6px;
-    margin-bottom: -7px;
+    width: 88%;
+    left: -11px;
+    margin-bottom: 33px;
   }
   #imagenPollo img {
     position: relative;
-    left: -16px;
+    left: -12px;
     top: 0px;
   }
   .textoPrecio {
@@ -487,7 +490,14 @@
   }
   .textoEmpanada {
     left: 195px;
-    top: -227px;
+    top: -260px;
+  }
+
+  #quesoTexto {
+    display: block;
+    position: relative;
+    left: -20px;
+    top: -53px;
   }
   #resTexto {
     bottom: 80px;
@@ -498,6 +508,7 @@
     left: -4px;
     top: -51px;
   }
+
   .textoDestacado {
     font-size: 18px;
     text-align: justify;
@@ -520,7 +531,24 @@
     transition: all 0.1s;
   }
   .span-ajo {
-    font-size: 16px;
+    font-size: 14px;
+  }
+
+  #productos p {
+    margin-top: -30px;
+    margin-bottom: 93px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  .wrap {
+    width: 84%;
+    margin: 0px auto;
+    margin-left: 3px;
+  }
+
+  #footer .wrap > div {
+    font-size: 19px;
   }
 }
 
