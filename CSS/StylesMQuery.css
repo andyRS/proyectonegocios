@@ -1,602 +1,619 @@
 @media (max-width: 1920px) {
-    #container {
-        max-width: 1920px;
-    }
-    h1 {
-        font-size: 55px;
-    }
-    #header #menu ul li a {
-        font-size: 22px;
-    }
+  #container {
+    max-width: 1920px;
+  }
+  h1 {
+    font-size: 55px;
+  }
+  #header #menu ul li a {
+    font-size: 22px;
+  }
 }
 
 @media (max-width: 1476px) {
-    h1 {
-        font-size: 53px;
-    }
+  h1 {
+    font-size: 53px;
+  }
 }
 
 @media (max-width: 1463px) {
-    .salud {
-        left: -156px;
-    }
+  .salud {
+    left: -156px;
+  }
 }
 
 @media (max-width: 1427px) {
-    h1 {
-        font-size: 51px;
-    }
+  h1 {
+    font-size: 51px;
+  }
 }
 
 @media (max-width: 1410px) {
-    .textoDestacado {
-        font-size: 28px;
-    }
-    .textoPrecio {
-        font-size: 37px;
-    }
+  .textoDestacado {
+    font-size: 28px;
+  }
+  .textoPrecio {
+    font-size: 37px;
+  }
 }
 
 @media (max-width: 1379px) {
-    h1 {
-        font-size: 48px;
-    }
+  h1 {
+    font-size: 48px;
+  }
 }
 
 @media (max-width: 1360px) {
-    .textoPrecio {
-        font-size: 36px;
-    }
-    .Empanadas .imagenes-empanadas img {
-        left: 31px;
-    }
-    .textoEmpanada {
-        left: -187px;
-    }
-    .salud {
-        top: -64px;
-        left: 414px;
-    }
-    .btn-subirarriba img {
-        left: 1175px;
-    }
+  .textoPrecio {
+    font-size: 36px;
+  }
+  .Empanadas .imagenes-empanadas img {
+    left: 31px;
+  }
+  .textoEmpanada {
+    left: -187px;
+  }
+  .salud {
+    top: -64px;
+    left: 414px;
+  }
+  .btn-subirarriba img {
+    left: 1175px;
+  }
 }
 
 @media (max-width: 1316px) {
-    .textoDestacado {
-        font-size: 26px;
-    }
+  .textoDestacado {
+    font-size: 26px;
+  }
 }
 
 @media (max-width: 1304px) {
-    h1 {
-        font-size: 44px;
-    }
-    #btn-masinfo {
-        width: 20%;
-    }
+  h1 {
+    font-size: 44px;
+  }
+  #btn-masinfo {
+    width: 20%;
+  }
 }
 
 @media (max-width: 1292px) {
-    .textoEmpanada {
-        font-size: 21px;
-        left: -200px;
-        position: relative;
-    }
-    .Empanadas .imagenes-empanadas img {
-        left: 182px;
-    }
-    .textoEmpanada {
-        font-size: 24px;
-        left: -64px;
-    }
-    #imagenPollo img {
-        position: relative;
-        left: 359px;
-        top: -353px;
-        clear: both;
-    }
-    #polloTexto {
-        position: relative;
-        left: 606px;
-        top: -994px;
-        clear: both;
-    }
-    .Empanadas .imagenes-empanadas img {
-        left: 158px;
-    }
-    .textoPrecio {
-        font-size: 34px;
-        top: -523px;
-    }
-    .nosotros img {
-        position: relative;
-        left: -30px;
-    }
-    .salud {
-        left: 325px;
-        top: -64px;
-    }
-    .economico {
-        top: 241px;
-        left: -242px;
-    }
-    .calidad {
-        top: 241px;
-        left: -208px;
-    }
-    .compromiso {
-        top: 242px;
-        left: -270px;
-    }
+  .textoEmpanada {
+    font-size: 21px;
+    left: -200px;
+    position: relative;
+  }
+  .Empanadas .imagenes-empanadas img {
+    left: 182px;
+  }
+  .textoEmpanada {
+    font-size: 24px;
+    left: -64px;
+  }
+  #imagenPollo img {
+    position: relative;
+    left: 359px;
+    top: -353px;
+    clear: both;
+  }
+  #polloTexto {
+    position: relative;
+    left: 606px;
+    top: -994px;
+    clear: both;
+  }
+  .Empanadas .imagenes-empanadas img {
+    left: 158px;
+  }
+  .textoPrecio {
+    font-size: 34px;
+    top: -523px;
+  }
+  .nosotros img {
+    position: relative;
+    left: -30px;
+  }
+  .salud {
+    left: 325px;
+    top: -64px;
+  }
+  .economico {
+    top: 241px;
+    left: -242px;
+  }
+  .calidad {
+    top: 241px;
+    left: -208px;
+  }
+  .compromiso {
+    top: 242px;
+    left: -270px;
+  }
 }
 
 @media (max-width: 1206px) {
-    h1 {
-        font-size: 40px;
-    }
-    #btn-masinfo {
-        width: 20%;
-    }
-    .span-ajo {
-        font-size: 58px;
-    }
-    #header #menu ul li a {
-        font-size: 20px;
-    }
+  h1 {
+    font-size: 40px;
+  }
+  #btn-masinfo {
+    width: 20%;
+  }
+  .span-ajo {
+    font-size: 58px;
+  }
+  #header #menu ul li a {
+    font-size: 20px;
+  }
 }
 
 @media (max-width: 1086px) {
-    h1 {
-        font-size: 38px;
-    }
-    #btn-masinfo {
-        width: 20%;
-    }
-    .span-ajo {
-        font-size: 45px;
-    }
+  h1 {
+    font-size: 38px;
+  }
+  #btn-masinfo {
+    width: 20%;
+  }
+  .span-ajo {
+    font-size: 45px;
+  }
 }
 
 @media (max-width: 1034px) {
-    h1 {
-        font-size: 32px;
-    }
-    #header #menu ul li a {
-        font-size: 19px;
-        margin-left: -20px;
-    }
-    .textoEmpanada {
-        left: -151px;
-    }
-    #imagenPollo img {
-        left: 267px;
-    }
-    .Empanadas .imagenes-empanadas img {
-        left: 73px;
-    }
-    #btn-masinfo {
-        width: 25%;
-    }
+  h1 {
+    font-size: 32px;
+  }
+  #header #menu ul li a {
+    font-size: 19px;
+    margin-left: -20px;
+  }
+  .textoEmpanada {
+    left: -151px;
+  }
+  #imagenPollo img {
+    left: 267px;
+  }
+  .Empanadas .imagenes-empanadas img {
+    left: 73px;
+  }
+  #btn-masinfo {
+    width: 25%;
+  }
 }
 
 @media (max-width: 1014px) {
-    h1 {
-        font-size: 32px;
-    }
-    #btn-masinfo {
-        width: 23%;
-    }
-    #btn-masinfo:hover {
-        width: 25%;
-    }
-    .span-ajo {
-        font-size: 37px;
-    }
+  h1 {
+    font-size: 32px;
+  }
+  #btn-masinfo {
+    width: 23%;
+  }
+  #btn-masinfo:hover {
+    width: 25%;
+  }
+  .span-ajo {
+    font-size: 37px;
+  }
 }
 
 @media (max-width: 769px) {
-    .icon-menu {
-        display: block;
-    }
-    #header #menu {
-        position: absolute;
-        top: 50px;
-        left: 76;
-        width: 100%;
-        margin: 0px auto;
-        transform: translateX(-100%);
-        transition: all 0.3s;
-    }
-    #productos p {
-        text-align: center;
-        color: black;
-        margin-top: -30px;
-        margin-bottom: 110px;
-        border-bottom: 2px solid #ccc;
-        border-width: medium;
-        box-shadow: 0px 0px 8px #ccc;
-    }
-    #header #menu ul li {
-        display: inline-block;
-    }
-    #header #menu ul li a {
-        display: block;
-        margin-left: 0;
-        font-size: 19px;
-        left: 49px;
-    }
-    #btn-menu:checked~#menu {
-        transform: translateX(0%);
-    }
-    #header .logo {
-        display: none;
-    }
-    .span-ajo {
-        font-size: 30px;
-    }
-    h1 {
-        font-size: 23px;
-        left: 4px;
-        display: block;
-        margin: 0px auto;
-    }
-    #btn-masinfo {
-        position: relative;
-        width: 38%;
-        margin: 0px;
-        left: 165px;
-    }
-    #btn-masinfo:hover {
-        width: 45%;
-    }
-    .Empanadas .imagenes-empanadas img {
-        width: 85%;
-        height: 0%;
-        margin-top: 25px;
-        margin-bottom: 95px;
-        left: 13px;
-    }
-    #imagenPollo img {
-        left: 13px;
-        top: -5px;
-    }
-    .textoEmpanada {
-        left: -313px;
-        top: -331px;
-        font-size: 28px;
-    }
-    #quesoTexto {
-        display: block;
-        position: relative;
-        left: 622px;
-        top: -170px;
-    }
-    #resTexto {
-        display: block;
-        position: relative;
-        bottom: -339px;
-        left: -28px;
-    }
-    #polloTexto {
-        position: relative;
-        left: 653px;
-        top: -167px;
-        clear: both;
-    }
-    .textoPrecio {
-        font-size: 34px;
-        top: 45px;
-        margin-bottom: 160px;
-    }
-    #sobre-nostros h2 {
-        font-size: 43px;
-    }
-    .textoImagenes {
-        line-height: normal;
-    }
-    .salud {
-        top: 211px;
-        left: -129px;
-    }
-    .economico {
-        top: 232px;
-        left: -171px;
-    }
-    .calidad {
-        top: -103px;
-        left: 494px;
-        clear: both;
-    }
-    .imagen-calidad img {
-        top: -4px;
-    }
-    .imagen-economico img {
-        width: 200px;
-        display: block;
-        position: relative;
-        float: left;
-        top: -5px;
-        left: 40px !important;
-        padding: 20px;
-        margin: 15px;
-        margin-left: 20px;
-        margin-bottom: 30px;
-    }
-    .imagen-salud img {
-        left: 97px;
-        top: -41px;
-    }
-    .imagen-compromiso img {
-        top: -39px;
-        left: -10px;
-        width: 32%;
-    }
-    #whatssap {
-        right: -18%;
-    }
-    .sobrenosParr p {
-        line-height: 67px;
-        font-size: 28px;
-        text-align: justify;
-        color: #222;
-    }
-    #footer {
-        width: 98%;
-        height: auto;
-    }
-    .wrap {
-        display: block;
-        width: 85%;
-        margin: 0px auto;
-        margin-left: 35px;
-    }
-    #footer .wrap>div {
-        float: none;
-        width: 98%;
-        margin: 40px;
-        text-align: center;
-        color: white;
-    }
-    input[type="text"],
-    input[type="email"],
-    input[type="number"],
-    label {
-        width: 90%;
-    }
-    #contacto textarea {
-        display: block;
-        width: 96%;
-    }
-    .imagen-mail img {
-        display: block;
-        width: 9%;
-        position: relative;
-        left: 348px;
-        top: -36px;
-    }
-    .animado {
-        opacity: 1 !important;
-        transition: all 0.1s;
-    }
+  .icon-menu {
+    display: block;
+  }
+  #header #menu {
+    position: absolute;
+    top: 50px;
+    left: 76;
+    width: 100%;
+    margin: 0px auto;
+    transform: translateX(-100%);
+    transition: all 0.3s;
+  }
+  #productos p {
+    text-align: center;
+    color: black;
+    margin-top: -30px;
+    margin-bottom: 110px;
+    border-bottom: 2px solid #ccc;
+    border-width: medium;
+    box-shadow: 0px 0px 8px #ccc;
+  }
+  #header #menu ul li {
+    display: inline-block;
+  }
+  #header #menu ul li a {
+    display: block;
+    margin-left: 0;
+    font-size: 19px;
+    left: 49px;
+  }
+  #btn-menu:checked ~ #menu {
+    transform: translateX(0%);
+  }
+  #header .logo {
+    display: none;
+  }
+  .span-ajo {
+    font-size: 30px;
+  }
+  h1 {
+    font-size: 23px;
+    left: 4px;
+    display: block;
+    margin: 0px auto;
+  }
+  #btn-masinfo {
+    position: relative;
+    width: 38%;
+    margin: 0px;
+    left: 165px;
+  }
+  #btn-masinfo:hover {
+    width: 45%;
+  }
+  .Empanadas .imagenes-empanadas img {
+    width: 85%;
+    height: 0%;
+    margin-top: 25px;
+    margin-bottom: 95px;
+    left: 13px;
+  }
+  #imagenPollo img {
+    left: 13px;
+    top: -5px;
+  }
+  .textoEmpanada {
+    left: -313px;
+    top: -331px;
+    font-size: 28px;
+  }
+  #quesoTexto {
+    display: block;
+    position: relative;
+    left: 622px;
+    top: -170px;
+  }
+  #resTexto {
+    display: block;
+    position: relative;
+    bottom: -339px;
+    left: -28px;
+  }
+  #polloTexto {
+    position: relative;
+    left: 653px;
+    top: -167px;
+    clear: both;
+  }
+  .textoPrecio {
+    font-size: 34px;
+    top: 45px;
+    margin-bottom: 160px;
+  }
+  #sobre-nostros h2 {
+    font-size: 43px;
+  }
+  .textoImagenes {
+    line-height: normal;
+  }
+  .salud {
+    top: 211px;
+    left: -129px;
+  }
+  .economico {
+    top: 232px;
+    left: -171px;
+  }
+  .calidad {
+    top: -103px;
+    left: 494px;
+    clear: both;
+  }
+  .imagen-calidad img {
+    top: -4px;
+  }
+  .imagen-economico img {
+    width: 200px;
+    display: block;
+    position: relative;
+    float: left;
+    top: -5px;
+    left: 40px !important;
+    padding: 20px;
+    margin: 15px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+  }
+  .imagen-salud img {
+    left: 97px;
+    top: -41px;
+  }
+  .imagen-compromiso img {
+    top: -39px;
+    left: -10px;
+    width: 32%;
+  }
+  #whatssap {
+    right: -18%;
+  }
+  .sobrenosParr p {
+    line-height: 67px;
+    font-size: 28px;
+    text-align: justify;
+    color: #222;
+  }
+  #footer {
+    width: 98%;
+    height: auto;
+  }
+  .wrap {
+    display: block;
+    width: 85%;
+    margin: 0px auto;
+    margin-left: 35px;
+  }
+  #footer .wrap > div {
+    float: none;
+    width: 98%;
+    margin: 40px;
+    text-align: center;
+    color: white;
+  }
+  input[type="text"],
+  input[type="email"],
+  input[type="number"],
+  label {
+    width: 90%;
+  }
+  #contacto textarea {
+    display: block;
+    width: 96%;
+  }
+  .imagen-mail img {
+    display: block;
+    width: 9%;
+    position: relative;
+    left: 348px;
+    top: -36px;
+  }
+  .animado {
+    opacity: 1 !important;
+    transition: all 0.1s;
+  }
 }
 
 @media (max-width: 755px) {
-    h1 {
-        font-size: 15px;
-        position: relative;
-        left: -146px;
-    }
-    #btn-masinfo {
-        width: 48%;
-        margin: 0px;
-        position: relative;
-        font-size: 14px;
-        left: -34px;
-    }
+  h1 {
+    font-size: 15px;
+    position: relative;
+    left: -146px;
+  }
+  #btn-masinfo {
+    width: 48%;
+    margin: 0px;
+    position: relative;
+    font-size: 14px;
+    left: -34px;
+  }
 }
 
 @media (max-width: 702px) {
-    h1 {
-        left: -121px;
-    }
+  h1 {
+    left: -121px;
+  }
 }
 
 @media (max-width: 652px) {
-    h1 {
-        left: -88px;
-    }
+  h1 {
+    left: -88px;
+  }
 }
 
 @media (max-width: 592px) {
-    h1 {
-        left: -66px;
-    }
-    #btn-masinfo {
-        left: 29px;
-    }
+  h1 {
+    left: -66px;
+  }
+  #btn-masinfo {
+    left: 29px;
+  }
 }
 
 @media (max-width: 543px) {
-    h1 {
-        left: -42px;
-    }
-    #btn-masinfo {
-        left: 48px;
-    }
+  h1 {
+    left: -42px;
+  }
+  #btn-masinfo {
+    left: 48px;
+  }
 }
 
 @media (max-width: 495px) {
-    h1 {
-        left: -16px;
-    }
-    #btn-masinfo {
-        left: 71px;
-    }
+  h1 {
+    left: -16px;
+  }
+  #btn-masinfo {
+    left: 71px;
+  }
 }
 
 @media (max-width: 476px) {
-    #header #menu {
-        left: 15px;
-    }
-    #btn-masinfo {
-        width: 54%;
-    }
-    #header #menu ul li a {
-        font-size: 17px;
-        position: relative;
-        left: 34px;
-        margin: 7px;
-        padding: 0px;
-        top: 9px;
-    }
-    h1 {
-        left: 10px;
-        bottom: 0px;
-        margin-bottom: 16px;
-    }
-    #btn-masinfo {
-        width: 52%;
-        /* font-size: ; */
-    }
-    #whatssap img {
-        width: 19%;
-        border-radius: 8px;
-        cursor: pointer;
-    }
-    #whatssap {
-        right: -54%;
-    }
-    #productos h2 {
-        margin-bottom: 30px;
-        font-size: 40px;
-    }
-    .Empanadas .imagenes-empanadas img {
-        width: 85%;
-        left: 6px;
-        margin-bottom: -7px;
-    }
-    #imagenPollo img {
-        position: relative;
-        left: -16px;
-        top: 0px;
-    }
-    .textoPrecio {
-        font-size: 20px;
-        text-align: center;
-    }
-    .textoEmpanada {
-        left: 195px;
-        top: -227px;
-    }
-    #resTexto {
-        bottom: 80px;
-        left: 2px;
-    }
-    #polloTexto {
-        bottom: 0px;
-        left: -4px;
-        top: -51px;
-    }
-    .textoDestacado {
-        font-size: 18px;
-        text-align: justify;
-    }
-    .imagen-compromiso img {
-        top: -56px !important;
-        left: 11px !important;
-    }
-    .nosotros img {
-        float: none;
-        left: -27px;
-        top: -54px;
-    }
-    #imgEconomico img {
-        display: block;
-        left: 20px !important;
-    }
-    .animado {
-        opacity: 1;
-        transition: all 0.1s;
-    }
-    .span-ajo {
-        font-size: 16px;
-    }
+  #header #menu {
+    left: 15px;
+  }
+  #btn-masinfo {
+    width: 54%;
+  }
+  #header #menu ul li a {
+    font-size: 17px;
+    position: relative;
+    left: 34px;
+    margin: 7px;
+    padding: 0px;
+    top: 9px;
+  }
+  h1 {
+    left: 10px;
+    bottom: 0px;
+    margin-bottom: 16px;
+  }
+  #btn-masinfo {
+    width: 52%;
+    /* font-size: ; */
+  }
+  #whatssap img {
+    width: 19%;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  #whatssap {
+    right: -54%;
+  }
+  #productos h2 {
+    margin-bottom: 30px;
+    font-size: 40px;
+  }
+  .Empanadas .imagenes-empanadas img {
+    width: 85%;
+    left: 6px;
+    margin-bottom: -7px;
+  }
+  #imagenPollo img {
+    position: relative;
+    left: -16px;
+    top: 0px;
+  }
+  .textoPrecio {
+    font-size: 20px;
+    text-align: center;
+  }
+  .textoEmpanada {
+    left: 195px;
+    top: -227px;
+  }
+  #resTexto {
+    bottom: 80px;
+    left: 2px;
+  }
+  #polloTexto {
+    bottom: 0px;
+    left: -4px;
+    top: -51px;
+  }
+  .textoDestacado {
+    font-size: 18px;
+    text-align: justify;
+  }
+  .imagen-compromiso img {
+    top: -56px !important;
+    left: 11px !important;
+  }
+  .nosotros img {
+    float: none;
+    left: -27px;
+    top: -54px;
+  }
+  #imgEconomico img {
+    display: block;
+    left: 20px !important;
+  }
+  .animado {
+    opacity: 1;
+    transition: all 0.1s;
+  }
+  .span-ajo {
+    font-size: 16px;
+  }
 }
 
 @media (max-width: 320px) {
-    #header #menu ul li a {
-        font-size: 13px;
-        position: relative;
-        left: -9px;
-        /* margin: 0px; */
-        padding: 5px;
-        top: -9px;
-    }
-    h1 {
-        left: 10px;
-        bottom: 0px;
-        margin-bottom: 16px;
-    }
-    #btn-masinfo {
-        width: 52%;
-    }
-    #whatssap img {
-        width: 19%;
-        border-radius: 8px;
-        cursor: pointer;
-    }
-    #whatssap {
-        right: -54%;
-    }
-    #productos h2 {
-        display: block;
-        margin-bottom: 0px;
-        font-size: 46px;
-    }
-    .Empanadas .imagenes-empanadas img {
-        width: 261px;
-        left: -15px;
-        margin-bottom: -7px;
-        padding: 15px;
-    }
-    #imagenPollo img {
-        position: relative;
-        left: -16px;
-        top: 0px;
-    }
-    .textoPrecio {
-        font-size: 20px;
-        text-align: center;
-    }
-    .textoEmpanada {
-        left: 132px;
-        top: -136px;
-    }
-    #resTexto {
-        bottom: 70px;
-        left: -3px;
-    }
-    #polloTexto {
-        bottom: 0px;
-        left: -4px;
-        top: -51px;
-    }
-    .textoDestacado {
-        font-size: 18px;
-        text-align: justify;
-    }
-    .imagen-compromiso img {
-        top: -56px !important;
-        left: 11px !important;
-    }
-    .nosotros img {
-        float: none;
-        left: -27px;
-        top: -54px;
-    }
-    #imgEconomico img {
-        display: block;
-        left: 20px !important;
-    }
+  #header #menu ul li a {
+    font-size: 11px;
+    position: relative;
+    left: 10px;
+    margin: 0px;
+    padding: 5px;
+    top: -9px;
+  }
+  h1 {
+    left: 10px;
+    bottom: 0px;
+    margin-bottom: 16px;
+  }
+  #btn-masinfo {
+    width: 52%;
+  }
+  #whatssap img {
+    width: 19%;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  #whatssap {
+    right: -54%;
+  }
+  #productos h2 {
+    display: block;
+    margin-bottom: 0px;
+    font-size: 46px;
+  }
+  .Empanadas .imagenes-empanadas img {
+    width: 84%;
+    left: -17px;
+    margin-bottom: 25px;
+    padding: 15px;
+  }
+  #imagenPollo img {
+    position: relative;
+    left: -16px;
+    top: 0px;
+  }
+  .textoPrecio {
+    font-size: 20px;
+    text-align: center;
+  }
+  .textoEmpanada {
+    left: 131px;
+    top: -168px;
+    font-size: 22px;
+  }
+
+  #quesoTexto {
+    display: block;
+    position: relative;
+    left: -20px;
+    top: -52px;
+  }
+
+  #resTexto {
+    bottom: 70px;
+    left: -3px;
+  }
+  #polloTexto {
+    bottom: 0px;
+    left: -4px;
+    top: -51px;
+  }
+  .textoDestacado {
+    font-size: 18px;
+    text-align: justify;
+  }
+  .imagen-compromiso img {
+    top: -56px !important;
+    left: 11px !important;
+  }
+  .nosotros img {
+    float: none;
+    left: -27px;
+    top: -54px;
+  }
+  #imgEconomico img {
+    display: block;
+    left: 20px !important;
+  }
+
+  #productos p {
+    margin-top: -30px;
+    margin-bottom: 55px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: -4px;
+  }
 }
