@@ -238,6 +238,8 @@
     h1 {
         font-size: 23px;
         left: 4px;
+        display: block;
+        margin: 0px auto;
     }
     #btn-masinfo {
         position: relative;
@@ -373,9 +375,8 @@
         left: 348px;
         top: -36px;
     }
-    
     .animado {
-        opacity: 1;
+        opacity: 1 !important;
         transition: all 0.1s;
     }
 }
@@ -442,7 +443,7 @@
         width: 54%;
     }
     #header #menu ul li a {
-        font-size: 17.5px;
+        font-size: 19px;
         position: relative;
         left: 15px;
         margin: 0px;
