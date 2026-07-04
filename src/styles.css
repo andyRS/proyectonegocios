@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url('/CSS/Fuentes/OpenSans-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BebasNeue';
+  src: url('/CSS/Fuentes/BebasNeue.otf') format('opentype');
+  font-display: swap;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+::selection {
+  background: #f4a62a;
+  color: #5a2e14;
+}
